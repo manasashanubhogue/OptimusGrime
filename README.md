@@ -13,7 +13,7 @@ OptimusGrime is a program that generates cleaning instructions for square-meters
    ```
 
 3. ``` cd project directory
-    bundle install ```
+    bundle install
 
 
 ## Usage
@@ -32,6 +32,13 @@ coordinate1, coordinate2, ...: format (x, y), e.g., "(1, 3)"
 ## Testing
 
 ``` bundle exec rspec main/optimusgrime_spec.rb ```
+
+
+## Few Outputs
+
+![Screenshot 2023-06-26 at 12 42 24](https://github.com/manasashanubhogue/OptimusGrime/assets/6822599/040b885a-0d04-4e48-8a04-7a14148a7619)
+
+![Screenshot 2023-06-26 at 12 41 32](https://github.com/manasashanubhogue/OptimusGrime/assets/6822599/b17335e7-6771-455b-adba-d37f080ab97f)
 
 
 
