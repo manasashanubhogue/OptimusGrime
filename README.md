@@ -35,10 +35,7 @@ coordinate1, coordinate2, ...: format (x, y), e.g., "(1, 3)"
 
 
 ## Few Outputs
-
-![Screenshot 2023-06-26 at 12 42 24](https://github.com/manasashanubhogue/OptimusGrime/assets/6822599/040b885a-0d04-4e48-8a04-7a14148a7619)
-
-![Screenshot 2023-06-26 at 12 41 32](https://github.com/manasashanubhogue/OptimusGrime/assets/6822599/b17335e7-6771-455b-adba-d37f080ab97f)
+<img width="1213" alt="Screenshot 2023-07-03 at 20 05 45" src="https://github.com/manasashanubhogue/OptimusGrime/assets/6822599/87d867e4-9c1e-4c76-b2ce-ee9a105356f7">
 
 
 
