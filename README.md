@@ -9,7 +9,7 @@ OptimusGrime is a program that generates cleaning instructions for square-meters
 2. Clone the OptimusGrime repository to your local machine:
 
    ```shell
-   git clone https://github.com/your-username/OptimusGrime.git
+   git clone git@github.com:manasashanubhogue/OptimusGrime.git
    ```
 
 3. ``` cd project directory
@@ -23,7 +23,7 @@ To generate cleaning instructions, you need to provide the grid size and the coo
 Run the following command to execute OptimusGrime:
 
 ```
-./optimusgrime.rb grid_size "coordinate1" "coordinate2" ...
+ruby optimusgrime.rb grid_size "coordinate1" "coordinate2" ...
 ```
 
 grid_size:  e.g., 5x5.
@@ -31,7 +31,7 @@ coordinate1, coordinate2, ...: format (x, y), e.g., "(1, 3)"
 
 ## Testing
 
-``` bundle exec rspec main/optimusgrime_spec.rb ```
+``` bundle exec rspec spec/cleaningtask_spec.rb ```
 
 
 ## Few Outputs
